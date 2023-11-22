@@ -1,6 +1,8 @@
 /* Student: Nguyen Huu Duc - 20210192
  * Class: 732870 
  */
+package hust.soict.hedspi.cart;
+import hust.soict.hedspi.aims.dvd.DigitalVideoDisc;
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 20; 
     // init cart

@@ -1,6 +1,7 @@
 /* Student: Nguyen Huu Duc - 20210192
  * Class: 732870 
  */
+package hust.soict.hedspi.dvd;
 public class DigitalVideoDisc {
 	private String title;
 	private String category;

@@ -1,6 +1,8 @@
 /* Student: Nguyen Huu Duc - 20210192
  * Class: 732870 
  */
+package hust.soict.hedspi.store;
+import hust.soict.hedspi.aims.dvd.DigitalVideoDisc;
 public class Store {
     private DigitalVideoDisc itemsInStore[];
     private int numberOfItems;

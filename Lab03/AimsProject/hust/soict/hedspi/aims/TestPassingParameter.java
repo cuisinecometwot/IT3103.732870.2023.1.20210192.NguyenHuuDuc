@@ -1,6 +1,8 @@
 /* Student: Nguyen Huu Duc - 20210192
  * Class: 732870 
  */
+package hust.soict.hedspi.aims;
+import hust.soict.hedspi.aims.dvd.DigitalVideoDisc;
 public class TestPassingParameter {
 	public static void main (String[] args) {
 		DigitalVideoDisc jungleDVD = new DigitalVideoDisc("Jungle");

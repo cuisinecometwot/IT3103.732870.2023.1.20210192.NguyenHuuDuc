@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="cart/|store/|dvd/" kind="src" path="AimsProject/hust/soict/hedspi/aims"/>
+	<classpathentry kind="src" path="AimsProject/hust/soict/hedspi/aims/cart"/>
+	<classpathentry kind="src" path="AimsProject/hust/soict/hedspi/aims/dvd"/>
+	<classpathentry kind="src" path="AimsProject/hust/soict/hedspi/aims/store"/>
+	<classpathentry kind="src" path="OtherProjects"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
